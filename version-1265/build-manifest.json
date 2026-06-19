@@ -1,0 +1,21 @@
+{
+  "source_file": "data_2000.txt",
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_counts": {
+    "hot-rihan": 200,
+    "hd-movies": 200,
+    "drama-series": 200,
+    "suspense-theater": 200,
+    "action-adventure": 200,
+    "romance-family": 200,
+    "scifi-fantasy": 200,
+    "comedy-animation": 200,
+    "history-war": 200,
+    "global-picks": 200
+  },
+  "m3u8_sources": 20,
+  "logo": "热播日韩剧",
+  "cover_rule": "cover = ((N - 1) % 150) + 1, referenced as ./X.jpg"
+}
